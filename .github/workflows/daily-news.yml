@@ -6,7 +6,9 @@ on:
   workflow_dispatch:        # allow manual runs from the Actions tab / gh CLI
 
 permissions:
-  contents: write
+  contents: write   # commit the digest
+  pages: write      # deploy to GitHub Pages
+  id-token: write   # required by deploy-pages
 
 concurrency:
   group: daily-news
@@ -16,10 +18,13 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -40,3 +45,14 @@ jobs:
 
       - name: Show digest in run summary
         run: cat LATEST.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Build site
+        run: python build_site.py
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
