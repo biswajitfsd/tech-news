@@ -1,0 +1,42 @@
+name: Daily Tech News
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # every day at 00:30 UTC (06:00 IST)
+  workflow_dispatch:        # allow manual runs from the Actions tab / gh CLI
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch last 24h of tech news
+        run: python fetch_news.py
+
+      - name: Commit digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news/ LATEST.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "news: digest for $(date -u +%F)"
+            git push
+          fi
+
+      - name: Show digest in run summary
+        run: cat LATEST.md >> "$GITHUB_STEP_SUMMARY"
