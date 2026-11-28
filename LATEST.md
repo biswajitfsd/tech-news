@@ -1,81 +1,73 @@
-# Tech News — 2026-11-27
+# Tech News — 2026-11-28
 
-Stories published between 2026-11-26 13:09 and 2026-11-27 13:09 UTC.
+Stories published between 2026-11-27 05:14 and 2026-11-28 05:14 UTC.
 
 ## Hacker News (front page)
 
-- [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem (pdf)](https://eprint.iacr.org/2026/3020.pdf) — 12:08 UTC
-- [Pizza history: AI agent's cardless purchase is a first for UK](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) — 11:41 UTC
-- [European Commission Declares Browser Competition a Digital Markets Act Priority](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/) — 08:11 UTC
-- [Indie web browser Ladybird enters alpha testing](https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914) — 07:58 UTC
-- [The group chat where your AI talks behind your back](https://construct22.com/) — 06:44 UTC
-- [Buy Nothing Day – Friday November 27th 2026](https://www.buynothingday.co.uk/) — 05:52 UTC
-- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/) — 05:22 UTC
-- [The Cutthroat Business of Shipwrecks](https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/) — 01:21 UTC
-- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) — 01:13 UTC
-- [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/) — 21:59 UTC
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) — 21:47 UTC
-- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) — 21:08 UTC
-- [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) — 20:49 UTC
-- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip) — 19:18 UTC
-- [An introduction to uncertainty in machine learning](https://chrhenning.com/blog/2026/introduction-to-uncertainty/) — 19:04 UTC
-
-## TechCrunch
-
-- [Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/) — 20:03 UTC
-- [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/) — 20:00 UTC
-- [X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/) — 19:31 UTC
-- [A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/) — 17:00 UTC
-- [Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/) — 16:00 UTC
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) — 03:19 UTC
+- [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/) — 02:03 UTC
+- [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai) — 01:32 UTC
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) — 23:06 UTC
+- [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/) — 23:00 UTC
+- [Source Control from Hell](https://frantic.im/git/) — 22:06 UTC
+- [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/) — 21:48 UTC
+- [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/) — 21:07 UTC
+- [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero) — 20:23 UTC
+- [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) — 19:42 UTC
+- [The AT&T Unix PC (3B1) VM](https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/) — 19:40 UTC
+- [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/) — 19:31 UTC
+- [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) — 18:02 UTC
+- [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/) — 17:56 UTC
+- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) — 15:40 UTC
 
 ## The Verge
 
-- [Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending](https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending) — 13:00 UTC
-- [Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026) — 12:30 UTC
-- [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) — 11:52 UTC
-- [The SE 3 is the Apple Watch most people should buy on Black Friday](https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale) — 11:30 UTC
-- [Our favorite headphones and earbuds are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026) — 10:30 UTC
-- [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3) — 21:00 UTC
-- [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday) — 19:00 UTC
-- [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale) — 17:07 UTC
-- [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu) — 17:06 UTC
-- [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026) — 16:55 UTC
+- [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale) — 03:30 UTC
+- [The absolute best Black Friday deals you can still get](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) — 03:28 UTC
+- [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026) — 01:30 UTC
+- [This purple electric Chinese minivan can go up to 559 miles on a charge](https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge) — 00:02 UTC
+- [The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026) — 23:53 UTC
+- [The best robot vacuums we’ve tested are up to 60 percent off for Black Friday](https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026) — 23:32 UTC
+- [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale) — 23:32 UTC
+- [Yooka-Laylee’s free upgrade is skipping Xbox](https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox) — 23:30 UTC
+- [Many of our favorite Blu-ray movies are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale) — 23:30 UTC
+- [The new iPad Mini is getting its first major discount for Black Friday](https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026) — 22:30 UTC
 
 ## Ars Technica
 
+- [The best Black Friday deals Ars could find](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/) — 17:05 UTC
 - [Intel faced a choice: Give Trump 10% or face the consequences](https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/) — 12:05 UTC
 - [Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/) — 11:30 UTC
 - [Volvo's big batteries: We drive its updated 2028 plug-in hybrids](https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/) — 08:00 UTC
-- [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/) — 18:00 UTC
 
 ## Wired
 
-- [Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories](https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/) — 12:15 UTC
-- [Best Dyson Vacuum Black Friday Deals for 2026: Up to $400 Off](https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-27-2026/) — 12:05 UTC
-- [16 Best Black Friday Headphone Deals (2026): Up to 57% Off](https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/) — 11:58 UTC
-- [The 123 Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-27-2026/) — 11:41 UTC
-- [16 Best Black Friday Headphone Deals (2026): Up to 57% Off](https://www.wired.com/story/black-friday-headphone-deals-11-27-26/) — 11:38 UTC
-- [15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off](https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/) — 11:32 UTC
-- [Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture](https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/) — 11:30 UTC
-- [The 6 Best Black Friday Deals on Expert-Tested Laptops (2026): Up to $470 Off](https://www.wired.com/story/black-friday-laptop-deals-11-27-2026/) — 11:28 UTC
-- [Best Black Friday Google Pixel Deals (2026): Up to $400 Off](https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/) — 11:24 UTC
-- [Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off](https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-2026/) — 11:05 UTC
-- [The Best Black Friday iPad Deals On the Latest 2026 Models: Get $100 Off](https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/) — 11:03 UTC
-- [Best Kitchen Gifts for Home Cooks (2026)](https://www.wired.com/story/the-best-gifts-for-cooks-who-love-cooking/) — 11:00 UTC
-- [Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys](https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/) — 10:44 UTC
-- [Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change](https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/) — 10:30 UTC
-- [I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, and Paramount Over Half Off](https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/) — 10:04 UTC
+- [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/) — 00:14 UTC
+- [Yeti Coolers Are up to 30% Off for Black Friday (2026)](https://www.wired.com/story/yeti-black-friday-sale-11-2026/) — 23:54 UTC
+- [Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)](https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/) — 23:27 UTC
+- [The Best Black Friday Gaming Deals I’ve Found (2026)](https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/) — 23:15 UTC
+- [Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)](https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/) — 22:11 UTC
+- [Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers](https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/) — 20:51 UTC
+- [Best Black Friday AirPods Deals I’ve Found (2026)](https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/) — 19:51 UTC
+- [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/) — 19:26 UTC
+- [Black Friday Mattress Deals: Get Up to 55% Off (2026)](https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/) — 19:07 UTC
+- [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/) — 18:08 UTC
+- [Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/) — 17:14 UTC
+- [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/) — 16:24 UTC
+- [Walking Pad Deals to Shop This Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/) — 15:43 UTC
+- [The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off](https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/) — 14:37 UTC
+- [Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off](https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/) — 14:07 UTC
 
 ## Engadget
 
+- [5 ways to make sure your console isn't holding back your GTA 6 performance](https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/) — 22:46 UTC
+- [LA school district blocks Google's AI search features](https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/) — 22:00 UTC
+- [Samsung is reportedly giving its camera app an AI mode](https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/) — 20:06 UTC
+- [Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang](https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/) — 19:45 UTC
+- [OpenAI countersues Apple and accuses it of stealing trade secrets](https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/) — 19:44 UTC
+- [Hackers reportedly infiltrated the Air Force's cloud systems](https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/) — 16:55 UTC
+- [5 Costco Electronics With Deep Discounts For Black Friday 2026](https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/) — 16:51 UTC
+- [WhatsApp adds support for travel eSIMs](https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/) — 16:24 UTC
 - [Google will soon share Android developers' addresses publicly](https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/) — 09:38 UTC
-- [Backloggd urges users to change their passwords after a breach](https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/) — 21:26 UTC
-- [1Password says it was hacked but users' vaults are safe](https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/) — 20:00 UTC
-- [Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday](https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/) — 19:44 UTC
-- [NVIDIA reportedly halts AI chip shipments to Southeast Asia](https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/) — 18:09 UTC
-- [Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition](https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/) — 16:53 UTC
-- [Man sentenced to 47 months in prison after using AI to impersonate streamer N3on](https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/) — 15:50 UTC
-- [The Screens app will let you turn your iPhone Duo into an itty bitty MacBook](https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/) — 13:59 UTC
-- [Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods](https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/) — 13:14 UTC
 
-_58 stories from 6 of 6 feeds._
+_53 stories from 6 of 6 feeds._
