@@ -1,15 +1,14 @@
 # Tech News — 2026-11-28
 
-Stories published between 2026-11-27 05:14 and 2026-11-28 05:14 UTC.
+Stories published between 2026-11-27 08:10 and 2026-11-28 08:10 UTC.
 
 ## Hacker News (front page)
 
+- [Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html) — 03:49 UTC
 - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) — 03:19 UTC
 - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/) — 02:03 UTC
-- [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai) — 01:32 UTC
 - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) — 23:06 UTC
 - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/) — 23:00 UTC
-- [Source Control from Hell](https://frantic.im/git/) — 22:06 UTC
 - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/) — 21:48 UTC
 - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/) — 21:07 UTC
 - [Prospero: Bloat-free, native AI coding harness with ImGui](https://github.com/skeeto/prospero) — 20:23 UTC
@@ -19,6 +18,7 @@ Stories published between 2026-11-27 05:14 and 2026-11-28 05:14 UTC.
 - [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) — 18:02 UTC
 - [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/) — 17:56 UTC
 - [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) — 15:40 UTC
+- [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html) — 15:26 UTC
 
 ## The Verge
 
@@ -38,25 +38,24 @@ Stories published between 2026-11-27 05:14 and 2026-11-28 05:14 UTC.
 - [The best Black Friday deals Ars could find](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/) — 17:05 UTC
 - [Intel faced a choice: Give Trump 10% or face the consequences](https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/) — 12:05 UTC
 - [Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/) — 11:30 UTC
-- [Volvo's big batteries: We drive its updated 2028 plug-in hybrids](https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/) — 08:00 UTC
 
 ## Wired
 
+- [Walmart Promo Codes: 20% Off for November 2026](https://www.wired.com/story/top-walmart-promo-codes/) — 06:00 UTC
+- [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/) — 06:00 UTC
+- [Motley Fool Promo Code: $200 Off on Stock Advisor November 2026](https://www.wired.com/story/the-motley-fool-promo-code/) — 06:00 UTC
+- [Corsair Discount Code: Up to 50% Off for November 2026](https://www.wired.com/story/corsair-coupon/) — 06:00 UTC
+- [Zoro Coupon Codes: 20% Off November 2026](https://www.wired.com/story/zoro-promo-code/) — 06:00 UTC
+- [Udemy Coupon Codes: 20% Off November 2026](https://www.wired.com/story/udemy-promo-code/) — 06:00 UTC
+- [Ray-Ban Promo Codes: Save 50% in November 2026](https://www.wired.com/story/ray-ban-promo-code/) — 06:00 UTC
+- [Altra Running Promo Codes: 10% Off November 2026](https://www.wired.com/story/altra-promo-code/) — 06:00 UTC
+- [Shark Promo Codes for November 2026](https://www.wired.com/story/shark-promo-code/) — 06:00 UTC
+- [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/) — 06:00 UTC
 - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/) — 00:14 UTC
 - [Yeti Coolers Are up to 30% Off for Black Friday (2026)](https://www.wired.com/story/yeti-black-friday-sale-11-2026/) — 23:54 UTC
 - [Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)](https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/) — 23:27 UTC
 - [The Best Black Friday Gaming Deals I’ve Found (2026)](https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/) — 23:15 UTC
 - [Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)](https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/) — 22:11 UTC
-- [Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers](https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/) — 20:51 UTC
-- [Best Black Friday AirPods Deals I’ve Found (2026)](https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/) — 19:51 UTC
-- [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/) — 19:26 UTC
-- [Black Friday Mattress Deals: Get Up to 55% Off (2026)](https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/) — 19:07 UTC
-- [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/) — 18:08 UTC
-- [Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/) — 17:14 UTC
-- [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/) — 16:24 UTC
-- [Walking Pad Deals to Shop This Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/) — 15:43 UTC
-- [The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off](https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/) — 14:37 UTC
-- [Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off](https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/) — 14:07 UTC
 
 ## Engadget
 
@@ -70,4 +69,4 @@ Stories published between 2026-11-27 05:14 and 2026-11-28 05:14 UTC.
 - [WhatsApp adds support for travel eSIMs](https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/) — 16:24 UTC
 - [Google will soon share Android developers' addresses publicly](https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/) — 09:38 UTC
 
-_53 stories from 6 of 6 feeds._
+_52 stories from 6 of 6 feeds._
